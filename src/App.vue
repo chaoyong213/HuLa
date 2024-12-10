@@ -4,7 +4,7 @@
       <router-view />
     </div>
 
-    <!-- 锁屏页面 -->
+    <!-- 锁屏页面1 -->
     <LockScreen v-else />
   </NaiveProvider>
 </template>
